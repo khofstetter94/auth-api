@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "cd auth-server && npm start",
     "init:config": "sequelize init:config",
     "db:create": "sequelize db:create",
     "lint": "eslint **/*.js",
