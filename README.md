@@ -11,7 +11,7 @@ Being able to login is great. But controlling access at a more granular level is
 ### Links and Resources
 
 - [ci/cd](https://github.com/khofstetter94/auth-api/pull/1) (GitHub Actions)
-- [back-end server url](http://xyz.com) (when applicable)
+- [back-end server url](https://kmh-auth-api.herokuapp.com/) (when applicable)
 
 ### Setup
 
